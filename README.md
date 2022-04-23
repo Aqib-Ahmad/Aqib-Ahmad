@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aqib ahmad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib ahmad khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aqib-ahmad-khan-72b2821b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqib ahmad khan" height="30" width="40" /></a>
 <a href="https://instagram.com/eraqibahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eraqibahmad" height="30" width="40" /></a>
 </p>
 
